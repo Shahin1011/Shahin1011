@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahin Alam</h1>
-<h3 align="center">A passionate competitive programming & software development</h3>
+<h3 align="center">A Computer Science and Technology student with a passion for competitive programming. My ultimate goal is to become a good software developer, that's why i am involved in competitive programming, problem solving; which has allowed me to gain critical logic thinking skills, teamwork and leadership.
+
+To achieve my goals, i have been actively developing my skills and trying to know about several new technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahin1011&label=Profile%20views&color=0e75b6&style=flat" alt="shahin1011" /> </p>
 
