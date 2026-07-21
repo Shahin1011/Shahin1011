@@ -6,7 +6,7 @@ To achieve my goals, i have been actively developing my skills and trying to kno
 Skills: C / C++ /  Swift
 
 - 🌱 I’m currently learning Swift 
-- 📫 How to reach me: muhammadshahinalamsa@gmail.com 
+- 📫 How to reach me: shahinalamsa1100@gmail.com
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shahin1011)  
